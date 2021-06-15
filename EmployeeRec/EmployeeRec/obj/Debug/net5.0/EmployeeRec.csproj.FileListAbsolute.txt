@@ -1,0 +1,16 @@
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\bin\Debug\net5.0\EmployeeRec.exe
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\bin\Debug\net5.0\EmployeeRec.deps.json
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\bin\Debug\net5.0\EmployeeRec.runtimeconfig.json
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\bin\Debug\net5.0\EmployeeRec.runtimeconfig.dev.json
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\bin\Debug\net5.0\EmployeeRec.dll
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\bin\Debug\net5.0\ref\EmployeeRec.dll
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\bin\Debug\net5.0\EmployeeRec.pdb
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\obj\Debug\net5.0\EmployeeRec.csproj.AssemblyReference.cache
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\obj\Debug\net5.0\EmployeeRec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\obj\Debug\net5.0\EmployeeRec.AssemblyInfoInputs.cache
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\obj\Debug\net5.0\EmployeeRec.AssemblyInfo.cs
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\obj\Debug\net5.0\EmployeeRec.csproj.CoreCompileInputs.cache
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\obj\Debug\net5.0\EmployeeRec.dll
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\obj\Debug\net5.0\ref\EmployeeRec.dll
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\obj\Debug\net5.0\EmployeeRec.pdb
+C:\Users\BayowaOdometa\source\repos\EmployeeRec\EmployeeRec\obj\Debug\net5.0\EmployeeRec.genruntimeconfig.cache
